@@ -1,0 +1,12 @@
+.Foto_Mahasiswa{
+    width: 100px;
+}
+
+#Tabel_Mahasiswa{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.Garis_Tabel{
+    border: 2px solid black;
+}
